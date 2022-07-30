@@ -26,17 +26,17 @@ You can go to this site and download it : https://customerconnect.vmware.com/en/
 2. Go to https://www.kali.org/get-kali/#kali-virtual-machines and click on the VMware downoad. You should get a large .7z file
 3. Use 7zip to unzip the file
 <p align="center">
-    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/tree/main/images/linux/7zip.png" width=60%  height=60%><br>
+    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/blob/main/images/linux/7zip.png" width=60%  height=60%><br>
 </p>
 
 4. You should no have the unzipped folder that has the following contents. You should move this folder to a location where you want to keep your VMs. VMware will default to creating VMs in a "Virtual Machines" folder it will place in your "Documents" folder (if you end up making VMs from .iso files. You don't really need to worry about this because you can change that location too). I just make my own "VMs" folder to put them in. 
 <p align="center">
-    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/tree/main/images/linux/unzipped.png" width=50%  height=50%><br>
+    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/blob/main/images/linux/unzipped.png" width=50%  height=50%><br>
 </p>
 
 5. You should see a `.vmx` file somewhere near the top. Right click on it and open it with VMware Workstation 
 <p align="center">
-    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/tree/main/images/linux/vmx.png" width=60%  height=60%><br>
+    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/blob/main/images/linux/vmx.png" width=60%  height=60%><br>
 </p>
 
 6. Now you can power on the VM. If you get a pop-up right away, just press "I Copied It"
@@ -52,7 +52,7 @@ You can go to this site and download it : https://customerconnect.vmware.com/en/
   - Press "Edit virtual machine settings"
   - Set the settings however you would like depending on the laptop/computer you are running on. 2GB of memory should be enough, but if you have enough to spare, bumping it up to 4GB would be nice. You can also increase/decrease the # of processors and Hard Disk space as well if you want to 
 <p align="center">
-    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/tree/main/images/linux/first-open.png" width=85%  height=85%><br>
+    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/blob/main/images/linux/first-open.png" width=85%  height=85%><br>
 </p>
 
 Enjoy :metal:
