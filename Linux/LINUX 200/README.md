@@ -32,7 +32,7 @@ The first thing you should have general understanding of when using Linux is the
 The image below gives a pretty good overview of the filesystem heirarchy and the main functions of each directory.
 
 <p align="center">
-    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/tree/main/images/linux/filesystem.png" width=75%  height=75%><br>
+    <img src="https://github.com/ursusShooock/CTF-by-eldiablo/blob/main/images/linux/filesystem.png" width=75%  height=75%><br>
     <em>source: https://linuxconfig.org/filesystem-basics</em>
 </p>
 
